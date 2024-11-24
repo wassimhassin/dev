@@ -1,0 +1,15 @@
+[submodule "wassim/B_O"]
+	path = wassim/B_O
+	url = https://github.com/wassimhassin/dev.git/wassim/B_O
+[submodule "wassim/CCC_Project/Asel POS/POS-Backend"]
+	path = wassim/CCC_Project/Asel POS/POS-Backend
+	url = https://github.com/wassimhassin/dev.git/wassim/CCC_Project/Asel POS/POS-Backend
+[submodule "wassim/CCC_Project/Asel POS/POS-Frontend"]
+	path = wassim/CCC_Project/Asel POS/POS-Frontend
+	url = https://github.com/wassimhassin/dev.git/wassim/CCC_Project/Asel POS/POS-Frontend
+[submodule "wassim/CCC_Project/AselPayWeb/AselPay-BackendV2"]
+	path = wassim/CCC_Project/AselPayWeb/AselPay-BackendV2
+	url = https://github.com/wassimhassin/dev.git/wassim/CCC_Project/AselPayWeb/AselPay-BackendV2
+[submodule "wassim/CCC_Project/AselPayWeb/AselPayWeb-Front"]
+	path = wassim/CCC_Project/AselPayWeb/AselPayWeb-Front
+	url = https://github.com/wassimhassin/dev.git/wassim/CCC_Project/AselPayWeb/AselPayWeb-Front
